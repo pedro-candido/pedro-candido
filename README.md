@@ -8,4 +8,4 @@
 
 🐧 Knowledge in Linux Systems(Mainly Ubuntu distros).
 
-[![Pedro Candido's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-candido)](https://github.com/pedro-candido/github-readme-stats)
+[![Pedro Candido's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-candido)](https://github.com/pedro-candido)
