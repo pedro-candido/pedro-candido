@@ -4,9 +4,9 @@
 
 🖥️ I worked for a long time using the platform Zendesk as CRM tool. I made configurations about everything that mention applications at Zendesk Support using React and Vue. Besides that, I made configurations and theming at Zendesk Guide, so I had practice using Curlybars and jQuery inside Zendesk Guide.
 
-📱 Experienced in Web Development Technologies (HTML, CSS, JS, JQuery,React JS, React Native, SCSS, LESS, knockoutJS).
+📱 Experienced in Web Development Technologies (React JS, React Native, Redux, styled-components, SCSS, LESS, knockoutJS, jQuery).
 
-🐧 Knowledge in Linux Systems(Mainly Ubuntu distros).
+🐧 Knowledge in Linux Systems(Mainly Ubuntu and Debian distros).
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
