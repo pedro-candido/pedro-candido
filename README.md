@@ -1,4 +1,4 @@
-👨🏻‍💻 Hello folks. My name's Pedro and I'm Frontend Developer at Sinqia.
+👨🏻‍💻 Hello folks. My name's Pedro and I'm Mobile Frontend Developer at FCamara.
 
 👨🏻‍🎓 I studied in a Technical course of Technology at Alcina Dantas Feijão for 1 year. Between 2016 and 2020 I made a Technologist Course of Information Security at Fatec Antônio Russo and a Graduation Course of Computer Science at University of São Caetano do Sul.
 
