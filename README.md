@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/pedro-candido/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="[Pedro Candido#6064](https://discordapp.com/users/258040832995753985)" target="_blank">
+  <a href="https://discordapp.com/users/258040832995753985" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/_pedrocandidof/" target="_blank">
