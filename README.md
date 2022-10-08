@@ -48,10 +48,3 @@
 <img src="https://github.com/pedro-candido/pedro-candido/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
-<div align="center">
-  <a href="https://open.spotify.com/user/12183783064">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12183783064&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
