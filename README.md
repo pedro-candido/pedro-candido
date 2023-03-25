@@ -36,13 +36,13 @@
   <a href="https://www.instagram.com/_pedrocandidof/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=pedro-candido&theme=aura&hide_border=false&date_format=j%2Fn%5B%2FY%5D&locale=pt-br" height="180"/>
 </div>
 
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=pedro-candido" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=pedro-candido" height="150" alt="languages graph"  />
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=pedro-candido&theme=aura&hide_border=false&date_format=j%2Fn%5B%2FY%5D&locale=pt-br" height="180"/>
 </div>
 
 ###
