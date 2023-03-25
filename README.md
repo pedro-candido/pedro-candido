@@ -36,6 +36,7 @@
   <a href="https://www.instagram.com/_pedrocandidof/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=pedro-candido&theme=aura&hide_border=false&date_format=j%2Fn%5B%2FY%5D&locale=pt-br" height="180"/>
 </div>
 
 ###
